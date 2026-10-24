@@ -24,5 +24,5 @@ I am a final-year **Bioengineering** student focused on applying computational m
 ## 📫 Contact & Academic Links
 
 * **Location:** Peru
-* **LinkedIn:** [Add your LinkedIn URL here]
-* **Email:** [Add your professional email here]
+* **LinkedIn:** www.linkedin.com/in/frank-arone-78ba01250
+* **Email:** frank.arone@utec.edu.pe
