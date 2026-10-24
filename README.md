@@ -1,4 +1,4 @@
-# Hi, I'm Arone Damian 👋
+# Hi, I'm Arone Frank 👋
 
 **Bioengineering | Biomedical Data Science, Biostatistics & Structural Bioinformatics**
 
